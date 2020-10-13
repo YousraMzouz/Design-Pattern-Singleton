@@ -8,7 +8,6 @@ public final class Terre { // La classe est finale, car un singleton n'est pas c
 	int population;
 
 	private Terre() {
-		    String s;
             Scanner scan = new Scanner(System.in);
             s = scan.nextLine(); 
 	}
