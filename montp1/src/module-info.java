@@ -1,0 +1,2 @@
+module montp1 {
+}
